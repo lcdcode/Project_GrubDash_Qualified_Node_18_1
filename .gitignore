@@ -21,7 +21,7 @@ build/
 .vscode/
 .vercel
 .screenshots/
-.qualified-attach
+.qualified-attach.json
 .attachignore
 package.json
 npm-debug.log*
